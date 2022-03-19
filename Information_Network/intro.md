@@ -8,3 +8,6 @@
             - 근거리 망(LAN), 도시권 통신망(MAN), 원거리 망(WAN), 상호 접속망
         - 강연결(tightly coupled) 분산 시스템: 분산된 거리가 짧고, 처리기간의 상호 작용이 많은 분산 시스템
             - 자료흐름기계, 멀티프로세서, 신경망 컴퓨터
+    - 컴퓨터 통신망의 역사
+        - SAGE(Semi-Automatic Ground Environment) 시스템: 1958년 미국에서 군사 목적으로 개발된 컴퓨터와 통신을 결합시킨 최초의 컴퓨터 통신 시스템
+        - SABRE(Semi-Automatic Business Research Environment) 시스템: 1961년에 발표된 여객기의 좌석 예약과 회사 업무를 종합적으로 처리하기 위한 상업적인 컴퓨터 통신 시스템
