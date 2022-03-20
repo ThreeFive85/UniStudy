@@ -11,3 +11,7 @@
     - 컴퓨터 통신망의 역사
         - SAGE(Semi-Automatic Ground Environment) 시스템: 1958년 미국에서 군사 목적으로 개발된 컴퓨터와 통신을 결합시킨 최초의 컴퓨터 통신 시스템
         - SABRE(Semi-Automatic Business Research Environment) 시스템: 1961년에 발표된 여객기의 좌석 예약과 회사 업무를 종합적으로 처리하기 위한 상업적인 컴퓨터 통신 시스템
+        - CTSS(Compatible Time Sharing System): 다수 사용자의 공동 이용을 위해 미국의 MIT 대학에서 개발한 시분할 시스템(time sharing system)
+        - ARPNET: 1969년 이후 가동되어 1990년까지 운영되었으며, 인터넷의 전신이된 컴퓨터 네트워크 시스템
+        - ALOHA(Additive Links Online Hawaii Area) 시스템: 1968년 하와이 대학에서 실험적으로 시작한 무선 패킷 교환 방식의 통신 시스템
+        - SNA(System Network Architecture): 1974년 IBM에서 발표한 컴퓨터 간의 접속을 용이하게 하고, 이용 형태의 다양화, 복잡화를 대체하기 위한 체계화된 네트워크 구조
